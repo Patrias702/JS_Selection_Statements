@@ -21,7 +21,7 @@ if(guessNumber == magicNumber) {
 
 //Exercise 2 : Birth Season
 
-let birthMonth = prompt=("Please insert your birth month:");
+let birthMonth = prompt("Please insert your birth month:");
 
 
 switch (birthMonth.toLowerCase()) {
